@@ -1,0 +1,122 @@
+html {
+    background-image: url("cheese.jpg");
+    background-size: cover;
+}
+
+header {
+    margin: 0;
+    padding: 20px;
+    border: solid #FC0 3px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #FC0;
+    background-color: rgba(54, 54, 54, 97%);
+    margin-bottom: 25px;
+}
+
+.center {
+    text-align: center;
+}
+
+#title-div {
+    color:  #fbcf0f;
+    max-width: 30%;
+    max-height: 25%;
+    margin: auto;
+    padding-top: 0px;
+    padding-left: 0px;
+    text-shadow: #FC0 1px 0 10px;
+}
+
+#img-div {
+    background-color: rgba(54, 54, 54, 97%);
+    border: solid #FC0 3px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #FC0;
+    height: 90%;
+    width: 80%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#image {
+    height: auto;
+    width: 90%;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    border: solid 5px #FC0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #FC0;
+}
+
+#img-caption {
+    color: #FC0;
+    text-shadow: #FC0 1px 0 10px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+#tribute-info {
+    color: #FC0;
+    text-shadow: #FC0 1px 0 10px;
+    background-color: rgba(54, 54, 54, 97%);
+    border: solid #FC0 3px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #FC0;
+    height: 90%;
+    width: 80%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 20px auto;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.event {
+    list-style-type: none;
+    margin: 40px 20px;
+    display: flex;
+    justify-content: center;
+    padding: 0 10px 20px 10px;
+    border-bottom: solid 1px ;
+}
+
+blockquote {
+    border: solid 1px #FC0;
+    box-shadow: 0 0 10px #FC0;
+    padding: 10px 0;
+}
+
+#footer-div {
+    color: #FC0;
+    text-shadow: #FC0 1px 0 10px;
+    background-color: rgba(54, 54, 54, 97%);
+    border: solid #FC0 3px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #FC0;
+    height: 90%;
+    width: 80%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 20px auto;
+}
+
+#footer-div a {
+    color: yellow;
+    text-decoration: none;
+}
